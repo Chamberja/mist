@@ -1,0 +1,12 @@
+{
+  "name": "mist",
+  "version": "0.0.1",
+  "description": "Hapi.js Steam API Wrapper",
+  "main": "index.js",
+  "author": "Jason Ames",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.5.1",
+    "wreck": "^14.0.2"
+  }
+}
